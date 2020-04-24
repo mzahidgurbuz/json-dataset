@@ -1,0 +1,175 @@
+[
+        {
+            "veritipi": "0",
+            "adi": "Benzinli"
+        },
+        {
+            "veritipi": "1",
+            "adi": "BMW SERIES 1 1.5 116D ",
+            "vites": "Otomatik",
+            "koltuk": "5",
+            "model": "2019",
+            "yakit": "Benzinli",
+            "sarfiyat": "5.9",
+            "kira": "2720",
+            "foto": "https://images.garenta.com.tr/jato/300/2017/BMW/SERIES%201/5Hatchback315.png"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Hyundai I20 1.4 Mpi Jump",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Benzinli",
+            "sarfiyat": "6.8",
+            "kira": "2609",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//HYUNDAI/I20/2020/5HA_135.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "BMW SERIES 1 1.5 116D ",
+            "vites": "Otomatik",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Benzinli",
+            "sarfiyat": "5.8",
+            "kira": "2620",
+            "foto": "https://images.garenta.com.tr/jato/300/2017/BMW/SERIES%201/5Hatchback315.png"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Hyundai I20 1.4 Mpi Jump",
+            "vites": "Otomatik",
+            "koltuk": "5",
+            "model": "2018",
+            "yakit": "Benzinli",
+            "sarfiyat": "6.8",
+            "kira": "3030",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//HYUNDAI/I20/2020/5HA_135.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Peugeot 2008",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Benzinli",
+            "sarfiyat": "5.6",
+            "kira": "2918",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//PEUGEOT/2008/2020/5OD.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "BMW SERIES 1 1.5 116D ",
+            "vites": "Otomatik",
+            "koltuk": "5",
+            "model": "2018",
+            "yakit": "Benzinli",
+            "sarfiyat": "7.4",
+            "kira": "2689",
+            "foto": "https://images.garenta.com.tr/jato/300/2017/BMW/SERIES%201/5Hatchback315.png"
+        },
+        {
+            "veritipi": "0",
+            "adi": "Dizel"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Hyundai I20 1.4 Mpi Jump",
+            "vites": "Manuel",
+            "koltuk": "5",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "5.9",
+            "kira": "2862",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//HYUNDAI/I20/2020/5HA_135.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Peugeot 2008",
+            "vites": "Otomatik",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "7.1",
+            "kira": "2883",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//PEUGEOT/2008/2020/5OD.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "CITROEN C-Elysee",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "5.5",
+            "kira": "2925",
+            "foto": "http://195.155.128.10:1412/image/rac/bc561de7-6fb6-4163-814e-c027ff37e2b2.jpg"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Volkswagen Polo 1.6",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "7.2",
+            "kira": "3221",
+            "foto": "https://www.avis.com.tr/assets/images/Car/B.png"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Peugeot 2008",
+            "vites": "Otomatik",
+            "koltuk": "3",
+            "model": "2018",
+            "yakit": "Dizel",
+            "sarfiyat": "7.4",
+            "kira": "3076",
+            "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//PEUGEOT/2008/2020/5OD.JPG"
+        },
+        {
+            "veritipi": "1",
+            "adi": "CITROEN C-Elysee",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "6.9",
+            "kira": "3171",
+            "foto": "http://195.155.128.10:1412/image/rac/bc561de7-6fb6-4163-814e-c027ff37e2b2.jpg"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Volkswagen Polo 1.6",
+            "vites": "Manuel",
+            "koltuk": "3",
+            "model": "2018",
+            "yakit": "Dizel",
+            "sarfiyat": "5.5",
+            "kira": "2578",
+            "foto": "https://www.avis.com.tr/assets/images/Car/B.png"
+        },
+        {
+            "veritipi": "1",
+            "adi": "CITROEN C-Elysee",
+            "vites": "Otomatik",
+            "koltuk": "5",
+            "model": "2020",
+            "yakit": "Dizel",
+            "sarfiyat": "6.5",
+            "kira": "2667",
+            "foto": "http://195.155.128.10:1412/image/rac/bc561de7-6fb6-4163-814e-c027ff37e2b2.jpg"
+        },
+        {
+            "veritipi": "1",
+            "adi": "Volkswagen Polo 1.6",
+            "vites": "Otomatik",
+            "koltuk": "5",
+            "model": "2019",
+            "yakit": "Dizel",
+            "sarfiyat": "6.6",
+            "kira": "3106",
+            "foto": "https://www.avis.com.tr/assets/images/Car/B.png"
+        }
+    ]

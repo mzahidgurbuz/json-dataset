@@ -23,13 +23,19 @@ içerdiği json dosya yapısı şu şekildedir.
 ``` JSON
 [
   {
-    "adi": "Hyundai I20 1.4 Mpi Jump",
+    "veritipi": "0", //başlık verisi 
+    "adi": "Benzinli"
+  },
+  {
+    "veritipi": "1", //araç verisi
+    "adi": "BMW SERIES 1 1.5 116D ",
     "vites": "Otomatik",
     "koltuk": "5",
-    "model": "2018",
-    "yakit": "6.1",
-    "kira": "2505",
-    "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//HYUNDAI/I20/2020/5HA_135.JPG"
+    "model": "2019",
+    "yakit": "Benzinli",
+    "sarfiyat": "5.9",
+    "kira": "2720",
+    "foto": "https://images.garenta.com.tr/jato/300/2017/BMW/SERIES%201/5Hatchback315.png"
   },
   //---
 ]

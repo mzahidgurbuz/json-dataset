@@ -17,4 +17,20 @@ içerdiği json dosya yapısı şu şekildedir.
   //---
 ]
 ```
-
+## araclar1.json, araclar2.json
+Bu dataset alıştırma yapmak isteyen kullanıcılar için örnek olarak hazırlanmış bir json dosyadır. Araç kiralama projesinde kullanmak için gerçek olmayan araçlar listesini içerir.
+içerdiği json dosya yapısı şu şekildedir. 
+``` JSON
+[
+  {
+    "adi": "Hyundai I20 1.4 Mpi Jump",
+    "vites": "Otomatik",
+    "koltuk": "5",
+    "model": "2018",
+    "yakit": "6.1",
+    "kira": "2505",
+    "foto": "https://tiklakirala.tiklakirala.com/JatoPhotos//HYUNDAI/I20/2020/5HA_135.JPG"
+  },
+  //---
+]
+```
